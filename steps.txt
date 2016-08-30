@@ -1,0 +1,8 @@
+install node
+> npm install nodemon -g
+> npm init //created packages.json
+make index.js
+> nodemon index.js
+> npm install express -s
+
+
